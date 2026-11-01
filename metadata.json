@@ -1,0 +1,6 @@
+{
+  "name": "Aimerger Business X-Ray",
+  "description": "Free AI audit tool for Indian small businesses. Instant Digital Health Score, Google Maps & Search insights, competitor benchmarks, revenue loss estimates in ₹, and AI automation roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
